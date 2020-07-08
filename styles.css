@@ -75,3 +75,16 @@
   opacity: 0.8;
   transform: scale(1.1);
 }
+
+.youicon {
+  margin: 25px;
+  filter: invert(100%);
+  opacity: 0.2;
+  transition: opacity 0.5s;
+  transition: transform 0.3s;
+}
+
+.youicon:hover {
+  opacity: 0.8;
+  transform: scale(1.1);
+}
